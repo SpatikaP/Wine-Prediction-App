@@ -1,0 +1,4 @@
+[core]
+    remote = mlopsremote
+['remote "mlopsremote"']
+    url = s3://mlops-demo-spatika-dvc
